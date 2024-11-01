@@ -1,1 +1,1 @@
-# Realted research for GNN
+# Realted research
